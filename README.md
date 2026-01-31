@@ -1,3 +1,5 @@
+# 💫 About Me:
+I am an engineering student focused on building practical, problem-driven technology at the intersection of software, AI, and robotics. My work spans web development, embedded systems, and AI-assisted applications, with an emphasis on clean architecture and real-world usability.<br><br>I have hands-on experience with Python, c, and Django,Flask, along with a strong foundation in data structures, algorithms, and system design. Beyond software, I actively develop hardware-integrated projects involving sensors, microcontrollers, and real-time data processing.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shilpa Daw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shilpa_daw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shilpa Daw) 
